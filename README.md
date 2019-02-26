@@ -3,7 +3,7 @@
 This is the project site for our paper
 
 Junkang Zhang, Cheolhong An, Truong Nguyen. <br>
-Deep Joint Demosaicing and Super Resolution on High Resolution Bayer Sensor Data. <br>
+**[Deep Joint Demosaicing and Super Resolution on High Resolution Bayer Sensor Data](https://ieeexplore.ieee.org/document/8646321)**. <br>
 6th IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018. <br>
 
 ### Data
