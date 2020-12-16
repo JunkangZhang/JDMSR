@@ -14,6 +14,9 @@ https://www.imaging-resource.com/PRODS/sigma-sd-quattro/sigma-sd-quattroGALLERY.
 
 The other two files in `data/` defines the separation of training and test set as mentioned in our paper. 
 
+#### Raw Data Extraction
+**[X3F](https://github.com/kalpanika/x3f/releases)** can convert x3f files into DNG files. Then, raw data can be extracted from DNG files by different tools, e.g. Matlab. 
+
 ### Codes
 
-To be uploaded soon. 
+To be uploaded. 
